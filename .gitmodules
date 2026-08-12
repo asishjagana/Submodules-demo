@@ -1,0 +1,3 @@
+[submodule "external/lodash"]
+	path = external/lodash
+	url = https://github.com/lodash/lodash.git
